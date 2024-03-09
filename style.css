@@ -1,0 +1,51 @@
+.box{
+    border: 1px solid black;
+}
+.per{ margin: 5px;
+padding: 2px;
+}
+#name{
+    margin-top:10px;
+}
+#state{
+    margin-bottom: 10px;
+}
+.question{
+    margin:5px;
+    margin-top: 10px;
+}
+#q1{
+    margin-left: 20px;
+}
+.quesend{
+    border-bottom: solid 1px black;
+}
+.button{
+    margin: 50;
+    position:relative;
+    left:600px;
+}
+a:hover{
+    color:violet;
+}
+a:active{
+    color:green;
+}
+a:visited{
+    color:blue
+}
+body{
+    background-image: url("https://thelivenagpur.com/wp-content/uploads/2019/09/noise-pollution.jpg");
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color:black;
+}
+.final{
+    border:5px solid black;
+    width: 500px;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
